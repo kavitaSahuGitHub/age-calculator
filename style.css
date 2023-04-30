@@ -1,0 +1,25 @@
+    *{
+        color: white;
+    }
+
+
+h2{
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+body{background-color: #0E2F2F;}
+
+#btnAgeCalculate{
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+}
+
+#btnAgeCalculate:hover{
+    background-color: rgb(83, 83, 82);
+}
+.divContainer{
+    width: 800px;
+    background-color: #0d5c63;
+    margin-left: 450px;
+    margin-top: 300px;
+    border-radius: 10px;
+}
